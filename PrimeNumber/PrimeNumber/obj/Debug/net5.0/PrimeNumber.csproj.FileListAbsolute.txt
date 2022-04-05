@@ -1,0 +1,16 @@
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.exe
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.deps.json
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.json
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.dev.json
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.dll
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\bin\Debug\net5.0\ref\PrimeNumber.dll
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.pdb
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.AssemblyReference.cache
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfoInputs.cache
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfo.cs
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.dll
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\obj\Debug\net5.0\ref\PrimeNumber.dll
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.pdb
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache

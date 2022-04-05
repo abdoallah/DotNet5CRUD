@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iTb14E6Vk8smHV3fatqxHFRkEGGs4d9ZL3iwF0nT+ryBACZQ0YskwVbxWdU4kmYQOelFC2uySKQktJPhvSF1pQ==",
+  "success": true,
+  "projectFilePath": "D:\\iti .net\\Asp.Net Core MVC\\Crud\\CrudOperationsUsing repository\\DotNet5CRUD\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

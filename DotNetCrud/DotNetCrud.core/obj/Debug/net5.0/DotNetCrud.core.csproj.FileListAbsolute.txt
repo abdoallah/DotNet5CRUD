@@ -1,0 +1,12 @@
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\bin\Debug\net5.0\DotNetCrud.core.deps.json
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\bin\Debug\net5.0\DotNetCrud.core.dll
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\bin\Debug\net5.0\ref\DotNetCrud.core.dll
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\bin\Debug\net5.0\DotNetCrud.core.pdb
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\obj\Debug\net5.0\DotNetCrud.core.csproj.AssemblyReference.cache
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\obj\Debug\net5.0\DotNetCrud.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\obj\Debug\net5.0\DotNetCrud.core.AssemblyInfoInputs.cache
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\obj\Debug\net5.0\DotNetCrud.core.AssemblyInfo.cs
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\obj\Debug\net5.0\DotNetCrud.core.csproj.CoreCompileInputs.cache
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\obj\Debug\net5.0\DotNetCrud.core.dll
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\obj\Debug\net5.0\ref\DotNetCrud.core.dll
+D:\iti .net\Asp.Net Core MVC\Crud\CrudOperationsUsing repository\DotNet5CRUD\DotNetCrud\DotNetCrud.core\obj\Debug\net5.0\DotNetCrud.core.pdb
